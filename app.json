@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "reactnative-maps-concepts",
+    "slug": "reactnative-maps-concepts",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "reactnativemapsconcepts",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
